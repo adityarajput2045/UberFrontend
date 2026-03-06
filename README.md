@@ -1,5 +1,4 @@
 # UberFrontend
-# Uber Ride Booking System - Frontend Application
 
 A plain JavaScript frontend application for the Uber Ride Booking System that connects to WebSocket and REST API services. Supports both driver and passenger modes.
 
